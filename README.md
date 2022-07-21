@@ -1,6 +1,5 @@
 # Speech to Text - Speech Recognition
 
-**Complete Video Tutorial:** https://youtu.be/U4nEKYDT9-I
 
 ## Project Information
 
